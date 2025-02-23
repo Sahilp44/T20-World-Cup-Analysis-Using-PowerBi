@@ -9,6 +9,8 @@ DataFrame from Pandas library of Python for data cleaning
 Power query in PowerBI for data transformation
 Dashboard in PoweBI for data visualization
 
+#OUTPUT DASHBOARDS
+
 
 ![Image](https://github.com/user-attachments/assets/4b300ca1-15c9-4912-a1b3-3e0ee66d5a07)
 ![Image](https://github.com/user-attachments/assets/edb6ecfa-7c0f-4ddd-9a4d-7b2c1148cf29)
