@@ -10,7 +10,10 @@ Power query in PowerBI for data transformation
 Dashboard in PoweBI for data visualization
 
 
-
-![Uploading image.png…]()
+![Image](https://github.com/user-attachments/assets/4b300ca1-15c9-4912-a1b3-3e0ee66d5a07)
+![Image](https://github.com/user-attachments/assets/edb6ecfa-7c0f-4ddd-9a4d-7b2c1148cf29)
+![Image](https://github.com/user-attachments/assets/bde64ea4-51e5-4126-bc32-c6debbdaedb9)
+![Image](https://github.com/user-attachments/assets/df7a42fe-b71d-4da3-b2b9-5a40575ec9fe)
+![Image](https://github.com/user-attachments/assets/cdaa4fa4-72c4-4a5f-98c6-e509bcbfa61a)
 
 
