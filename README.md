@@ -1,3 +1,4 @@
+
 # Cricket-Data-Analytics
 Our project is a fully data analytics project. In this data analytics project, we will use cricket T20 World Cup (2022) data to build insights on the best 11-player team that we can assemble for future tournaments. 
 We have used cricket T20 World Cup (2022) data to build insights on a best 11-player team that we can assemble for future tournaments that can go and play with tough teams, which will increase our chance to win the tournaments. 
@@ -7,4 +8,9 @@ BrightData website to Webscrapping the data using Java script.
 DataFrame from Pandas library of Python for data cleaning
 Power query in PowerBI for data transformation
 Dashboard in PoweBI for data visualization
+
+
+
+![Uploading image.png…]()
+
 
